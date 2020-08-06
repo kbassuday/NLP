@@ -4,6 +4,7 @@
 Created on Wed Nov 14 10:32:12 2018
 
 @author: kirstenbassuday
+This program takes tokenized corpus and prints its stats, bigrams, trigrams
 """
 
 import nltk
