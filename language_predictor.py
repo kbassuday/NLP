@@ -4,6 +4,7 @@
 Created on Wed Dec  5 19:48:55 2018
 
 @author: kirstenbassuday
+This program predicts language of input file
 """
 
 
